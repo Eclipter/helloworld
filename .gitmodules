@@ -1,3 +1,6 @@
 [submodule "lab6"]
 	path = lab6
 	url = https://YauheniyRatkevich@bitbucket.org/YauheniyRatkevich/lab6.git
+[submodule "linux_lab2"]
+	path = linux_lab2
+	url = https://github.com/Eclipter/linux_lab2.git
